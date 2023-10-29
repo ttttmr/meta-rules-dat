@@ -158,6 +158,11 @@ rules:
   - MATCH,DIRECT
 ```
 
+## 辅助工具
+https://github.com/MetaCubeX/geo
+
+🗺 An easy way to manage all your Geo resources.
+
 ## 致谢
 
 - [@Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)
